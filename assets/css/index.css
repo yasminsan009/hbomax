@@ -1,7 +1,6 @@
-@import url("./global.css");
+@import url("Style.css");
 
 main {
-  background: url("../images/background-subscription.png") no-repeat;
   background-size: cover;
 }
 
